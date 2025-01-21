@@ -54,3 +54,9 @@ resultados = analisar_faturamento(faturamento)
 
 
 exibir_resultados(resultados)
+
+
+Menor valor de faturamento: R$0.00
+Maior valor de faturamento: R$500.60
+Média mensal de faturamento: R$379.73
+Número de dias com faturamento superior à média: 12
